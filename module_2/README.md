@@ -1,6 +1,6 @@
-## Module_2
+# Module_2
 
-#9.Pārbaudīt kāds commit hash ir lokālajā git repozitorijā un salīdzināt to ar šī paša faila commit hash github
+## 9.Pārbaudīt kāds commit hash ir lokālajā git repozitorijā un salīdzināt to ar šī paša faila commit hash github
 
 README.md faila commit hash:
 
@@ -8,7 +8,7 @@ README.md faila commit hash:
 | ------ | ------ |
 | d032ae1bc24369985ad14027a9f484e0500084ba | d032ae1bc24369985ad14027a9f484e0500084ba |
 
-#13.Salīdzināt vienādu failu (ne README) hash no mapes module_1 un module_2. Vai git redz atšķirību starp šiem failiem?
+## 13.Salīdzināt vienādu failu (ne README) hash no mapes module_1 un module_2. Vai git redz atšķirību starp šiem failiem?
 
 | File | Module1 Hash | Module2 Hash |
 | ------ | ------ | ------ |
