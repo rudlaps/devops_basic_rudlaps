@@ -10,4 +10,5 @@ git --version
 ![GitVersion](git.png)
 
 2.Hello World task
+
 ![Hello!](task.png)
