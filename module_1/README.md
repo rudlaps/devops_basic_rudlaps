@@ -7,7 +7,7 @@
 ```sh
 git --version
 ```
-[![GitVersion](https://github.com/rudlaps/devops_basic_rudlaps/module_1/git.png)]
+![GitVersion](https://github.com/rudlaps/devops_basic_rudlaps/module_1/git.png)
 
 2.Hello World task
-[![Hello!](https://github.com/rudlaps/devops_basic_rudlaps/module_1/task.png)]
+![Hello!](https://github.com/rudlaps/devops_basic_rudlaps/module_1/task.png)
