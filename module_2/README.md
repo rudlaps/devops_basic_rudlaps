@@ -20,6 +20,7 @@ README.md faila commit hash:
 ## 16. Pārbaudīt kādas izmaiņas tika veiktas iepriekšējās nedēļas laikā. Atrast vismaz divus veidus kā to izdarīt.
 
 1.Pievienojot adreses lauka filtru: `?since=2022-05-16` (https://github.com/hashicorp/terraform/commits/main?since=2022-05-16)
+
 2.`git log --since=1.weeks`
 
 ## 17. Atrast commit kurus veica autors - “Laura Pacilio”
